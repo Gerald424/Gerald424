@@ -1,8 +1,8 @@
 # Hello there; welcome 👋🏾
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gerald-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warizkolapo)](https://www.linkedin.com/in/warizkolapo) 
-[![Twitter Badge](https://img.shields.io/badge/-@kolapowariz-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kolapowariz)](https://twitter.com/kolapowariz) 
+[![Linkedin Badge](https://img.shields.io/badge/-InnocentChristopher-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warizkolapo)](https://www.linkedin.com/in/warizkolapo) 
+[![Twitter Badge](https://img.shields.io/badge/-@InnocentChristopher-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kolapowariz)](https://twitter.com/kolapowariz) 
 
 
 
