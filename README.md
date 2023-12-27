@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there; welcome 👋🏾
 
-<!--
-**Gerald424/Gerald424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Gerald-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warizkolapo)](https://www.linkedin.com/in/warizkolapo) 
+[![Twitter Badge](https://img.shields.io/badge/-@kolapowariz-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kolapowariz)](https://twitter.com/kolapowariz) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+I'm a self learning Cyber Analyst. I'm passionate about sharing knowledge, documentation, web engineering, cyber sucurity, Jamstack, headless commerce, and others. I build useful [open-source projects](https://github.com/Gerald424).
+
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I'm a self learning student.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Python, C++.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Cyber Analyst or Cyber Security Engineer (Intern or Junior level).
+- 📫 You can [view my resume](#) and contact me by emailing mailtoinnocentchris20220@gmail.com.
+
+---
